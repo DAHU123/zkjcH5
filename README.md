@@ -1,2 +1,21 @@
-# zkjcH5
-中科监测的H5端，其中主要是涉及到了微信网页授权，包含查货，验货以及确认收货等等功能
+# zkjc-h5
+
+> 手机端确认收货
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
